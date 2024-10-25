@@ -1,7 +1,5 @@
 <h1>SQL Joins for Data Analysis and Cybersecurity</h1>
 
-### [YouTube Demonstration](https://youtu.be/your_youtube_link_here)
-
 <h2>Description</h2>
 This repository demonstrates the different types of SQL JOIN operations used to combine data from multiple tables. Each JOIN type has a specific use case, particularly in cybersecurity, where these operations help ensure data integrity, monitor access, and detect potential threats. Below are examples of INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN, each with an explanation of their purpose.
 
